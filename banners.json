@@ -1,26 +1,7 @@
 {
   "interval": 5000,
   "banners": [
-    {
-      "placement": "videotube_home",
-      "image": "banners/banner1.png",
-      "alt": "Download Aadhaar",
-      "link": "https://myaadhaarbeta.uidai.gov.in/genericDownloadAadhaar/en",
-      "active": true,
-      "order": 1,
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "placement": "videotube_home",
-      "image": "banners/banner2.png",
-      "alt": "Sangai File Compressor",
-      "link": "https://www.facebook.com/profile.php?id=61593958534720",
-      "active": true,
-      "order": 2,
-      "start_date": "",
-      "end_date": ""
-    },
+
     {
       "placement": "videotube_player",
       "image": "banners/sir2026.png",
