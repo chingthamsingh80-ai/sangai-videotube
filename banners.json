@@ -3,7 +3,7 @@
   "banners": [
 
     {
-      "placement": "videotube_player",
+      "placement": "both",
       "image": "banners/sir2026.png",
       "alt": "SIR Information",
       "link": "https://ceomanipur.nic.in/",
